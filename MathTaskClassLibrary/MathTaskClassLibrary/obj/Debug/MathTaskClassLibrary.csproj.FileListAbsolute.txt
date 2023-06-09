@@ -1,0 +1,12 @@
+C:\Users\1\Desktop\MathTaskClassLibrary\MathTaskClassLibrary\bin\Debug\MathTaskClassLibrary.dll
+C:\Users\1\Desktop\MathTaskClassLibrary\MathTaskClassLibrary\bin\Debug\MathTaskClassLibrary.pdb
+C:\Users\1\Desktop\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.dll
+C:\Users\1\Desktop\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.pdb
+C:\Users\1\Desktop\Лаборатнорные работы\7\MathTaskClassLibrary\MathTaskClassLibrary\bin\Debug\MathTaskClassLibrary.dll
+C:\Users\1\Desktop\Лаборатнорные работы\7\MathTaskClassLibrary\MathTaskClassLibrary\bin\Debug\MathTaskClassLibrary.pdb
+C:\Users\1\Desktop\Лаборатнорные работы\7\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Лаборатнорные работы\7\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Лаборатнорные работы\7\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.dll
+C:\Users\1\Desktop\Лаборатнорные работы\7\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.pdb
